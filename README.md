@@ -2,4 +2,4 @@
 
 Mis ejercicios resueltos de hackerrank.com
 
-:large_orange_diamond: List ComprehensionsList Comprehensions
+:large_orange_diamond: List Comprehensions
